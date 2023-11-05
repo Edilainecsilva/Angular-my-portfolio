@@ -7,7 +7,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 # Referências:
 Prototipação utilizada - Figma: https://www.figma.com/file/AdizY4D8seuXhyIJpZQmB4/my-portfolio?type=design&node-id=0%3A1&mode=design&t=ZSJONFCJzKXD4x8h-1
 
-Todas as imagens do site e o diagrama utilizados neste projeto, foram feitas e editadas atráves da plataforma: https://www.canva.com
+Todas as imagens utilizadas neste projeto, foram feitas e editadas atráves da plataforma: https://www.canva.com
 
 ## Execução e instalação
 Será necessário ter o Nodejs instalado e também o framework Angular.
