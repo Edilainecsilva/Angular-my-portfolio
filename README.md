@@ -1,6 +1,11 @@
-# MyPortfolio
+
+# MyPortfolio -  Santander Bootcamp 2023 - Fullstack Java+Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.9.
+Este é um desafio que foi lançado no curso Santander Bootcamp 2023 - Fullstack Java+Angular. Foi passado em aula e pedido melhorias no projeto. Este projeto tem como objetivo, dar um vislumbre dos projetos que tenho desenvolvido, ao longo da minha jornada na trilha de aprendizagem em Desenvolvimento Web e Full Stack. 
+
+## Execução e instalação
+Será necessário ter o Nodejs instalado e também o framework Angular.
 
 ## Development server
 
