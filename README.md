@@ -8,7 +8,7 @@ Este é um desafio que foi lançado no curso Santander Bootcamp 2023 - Fullstack
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.9.
 
 # Referências:
-Esse proejto tem referência com o repositório do nosso Professor Felipe, da dio: https://github.com/felipeAguiarCode/angular-blog/tree/main
+Esse proejto tem referência com o repositório do nosso Professor Felipe Aguiar, da dio: https://github.com/felipeAguiarCode/angular-blog/tree/main
 
 Prototipação utilizada - Figma: https://www.figma.com/file/AdizY4D8seuXhyIJpZQmB4/my-portfolio?type=design&node-id=0%3A1&mode=design&t=ZSJONFCJzKXD4x8h-1
 
